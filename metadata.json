@@ -1,0 +1,6 @@
+{
+  "name": "EduFlow Adaptive Learning",
+  "description": "An adaptive learning platform with student and teacher dashboards, personalized learning paths, and instant feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
